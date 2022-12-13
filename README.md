@@ -6,4 +6,4 @@
 
 ### NOTE file with description of design and simulation included in Repo. STL, Technical Drawings and fusion files also included
 
-
+![Tinkercad solution](https://user-images.githubusercontent.com/56273491/207430747-05896981-6cd5-4292-b1ac-47c620502c0e.png)
